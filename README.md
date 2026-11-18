@@ -4,4 +4,5 @@
 8-εβδομαδιαίου course software engineering.
 
 ## Stack
+
 TypeScript, Node.js, PostgreSQL, React
